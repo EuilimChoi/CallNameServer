@@ -19,6 +19,7 @@
 
 ## 서술형 문제 
 Q1. Nest.js에 대해 설명하시오.
+
 NestJS는 Node.js에 기반을 둔 웹 API 프레임워크로 Typescript기반의 OOP(Object Oriented Programming), FP(Functional Programming) 
 FPR(Functional Reactive Programming)을 지원합니다.
 기본 컨셉은 Provider, Controller를 module로 합치고, 그 모듈들을 최종적으로 app.module에 합쳐서 사용하는 것입니다.
